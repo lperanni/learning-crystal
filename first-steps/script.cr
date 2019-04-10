@@ -18,6 +18,6 @@ class Person
 end
 
 
-person1 = Person.new("Ivan", 23)
+person1 = Person.new("Ivan", 29)
 
 puts("The first Persons name is #{person1.name} who is #{person1.age} years old!")
